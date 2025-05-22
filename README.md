@@ -1,4 +1,4 @@
-# [多模态] 基于Qwen2.5和CLIP模型，利用Lora微调自己的LLAVA模型
+# [多模态] 基于Qwen1.5和CLIP模型，利用Lora微调自己的LLAVA模型
 具体步骤如下：
 ## 1 Llava模型的合并（详见merge_llava_model.py）
 **1.1** 先获取Huggingface的千问模型（Qwen1.5-4B-Chat），以及CLIP模型（clip-vit-large-patch14-336）；<br>
